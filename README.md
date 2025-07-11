@@ -122,7 +122,3 @@ The script gives guidance such as:
 ## Disclaimer
 
 This tool is for **informational and educational purposes only**. It does not constitute financial, tax, or investment advice. Please consult a tax professional before making any decisions.
-
----
-
-Let me know if you'd like the script to be turned into a web app or if you want a sample output CSV for testing.
