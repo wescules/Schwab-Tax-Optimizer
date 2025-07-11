@@ -89,7 +89,6 @@ Gain/Loss Ratio: 0.54
 Number of Gain Transactions: 40
 Number of Loss Transactions: 13
 --------------------------------
---------------------------------
 Proceeds: $1,493,597.33 (0.495%)
 Cost Basis: $1,486,238.09
 
