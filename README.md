@@ -1,7 +1,3 @@
-Here’s a complete `README.md` for your **Schwab Tax Optimizer** project:
-
----
-
 # Schwab Tax Optimizer
 
 **Schwab Tax Optimizer** is a Python tool that helps you analyze and optimize your investment-related tax outcomes using exported CSV data from your Charles Schwab brokerage account. It calculates short-term and long-term capital gains, ordinary income, disallowed losses, and provides actionable insights to help you minimize your tax burden.
