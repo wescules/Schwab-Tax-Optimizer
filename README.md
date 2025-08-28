@@ -59,28 +59,13 @@ Long-Term Gain: $-9,499.86
 Ordinary Income: $222.34
 Disallowed Losses: $257.82
 Fees: $26.18
-Short-Term Gain: $-1,649.98
-Long-Term Gain: $-9,499.86
-Ordinary Income: $222.34
-Disallowed Losses: $257.82
-Long-Term Gain: $-9,499.86
-Ordinary Income: $222.34
-Disallowed Losses: $257.82
-Fees: $26.18
-Disallowed Losses: $257.82
-Fees: $26.18
-Fees: $26.18
 
 
-Total Gains: $13,135.62
 Total Gains: $13,135.62
 Total Losses: $-24,285.46
 Net Gain: $-11,149.84
 Total Losses: $-24,285.46
 Net Gain: $-11,149.84
-Gain/Loss Ratio: 0.54
-Net Gain: $-11,149.84
-Gain/Loss Ratio: 0.54
 Gain/Loss Ratio: 0.54
 Number of Gain Transactions: 40
 Number of Loss Transactions: 13
